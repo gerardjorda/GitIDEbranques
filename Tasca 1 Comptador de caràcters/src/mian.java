@@ -9,8 +9,7 @@ public class mian {
 		
 		int [] count = new int[3];
 		
-		//Comprovem quinas lletres hi ha i les sumem.
-		
+		//Canvis el IDE
 		for(int i=0; i<llista.length; i++)
 		{
 			if(llista[i]=="X")
